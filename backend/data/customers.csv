@@ -1,0 +1,4 @@
+customer_id,name,email,phone,loyalty_points,is_member
+CUST001,Alice Smith,alice@example.com,555-1234,120,true
+CUST002,Bob Jones,bob@example.com,555-5678,45,false
+CUST003,Charlie Kim,charlie@example.com,555-9012,200,true

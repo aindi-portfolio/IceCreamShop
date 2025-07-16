@@ -1,0 +1,5 @@
+store_id,product_id,quantity
+STORE001,1,100
+STORE001,4,80
+STORE002,2,120
+STORE002,5,60

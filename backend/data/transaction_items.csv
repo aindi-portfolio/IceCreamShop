@@ -1,0 +1,7 @@
+transaction_id,product_id,quantity,unit_price
+TX001,1,2,2.50
+TX001,4,1,0.75
+TX002,2,1,2.75
+TX002,6,1,0.35
+TX003,3,3,2.70
+TX003,5,1,0.85

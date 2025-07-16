@@ -1,0 +1,7 @@
+product_id,product_type,name,price,quantity,available
+1,flavor,Vanilla,2.50,120,true
+2,flavor,Chocolate,2.75,95,true
+3,flavor,Mango,2.70,30,true
+4,cone,Waffle Cone,0.75,150,true
+5,cone,Gluten-Free Cone,0.85,60,true
+6,cone,Mini Cone,0.35,75,true

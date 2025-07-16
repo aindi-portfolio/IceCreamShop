@@ -1,0 +1,3 @@
+employee_id,name,role,email,store_id
+EMP001,Sarah Lee,Cashier,sarah@icecreamshop.com,STORE001
+EMP002,Tom Nguyen,Manager,tom@icecreamshop.com,STORE002

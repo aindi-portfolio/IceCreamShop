@@ -1,0 +1,4 @@
+transaction_id,customer_id,employee_id,store_id,date,total_amount,payment_method
+TX001,CUST001,EMP001,STORE001,2025-07-15,5.75,Cash
+TX002,CUST002,EMP002,STORE002,2025-07-15,3.10,Credit Card
+TX003,CUST003,EMP001,STORE001,2025-07-16,8.65,Mobile Pay
